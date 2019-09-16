@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df8d23dc-be1a-4c01-bd67-cdd8f6834eb1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>php</find>
+      <find>php-</find>
+      <find>larave</find>
+      <find>excel</find>
+      <find>vue</find>
+      <find>Example</find>
+      <find>api</find>
+      <find>api'</find>
+      <find>vers</find>
+      <find>whereIn</find>
+      <find>env</find>
+      <find>toAr</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/spatie/fractalistic" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-fractal" />
+      <path value="$PROJECT_DIR$/vendor/saad/fractal" />
+      <path value="$PROJECT_DIR$/vendor/league/fractal" />
+      <path value="$PROJECT_DIR$/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1QtTBzR1sonnJnIA0BJ75RX6EF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Contrac&#9;null&#9;null&#10;Repo&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Repositories/Implementations/Repository.php&#10;AppF&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/database/factories/ApplicantFactory.php&#10;phpunit.&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/phpunit.xml&#10;database.&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/database.php&#10;CSVA&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Adapters/Implementations/CSVAdapter.php&#10;Reposi&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Repositories/Implementations/Repository.php&#10;Boa&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Producers/BoardingFlowProducerContract.php&#10;Wee&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Producers/Implementations/WeeklyLineProducer.php&#10;Data&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Producers/Implementations/DataProducer.php&#10;ChartSe&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Services/Implementations/ChartService.php&#10;Chart&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Http/Controllers/API/ChartController.php&#10;.env&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/.env&#10;CS&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Managers/Implementations/CSVManager.php&#10;CSV&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Adapters/Implementations/CSVAdapter.php&#10;Api&#9;null&#9;null&#10;l&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/l5-swagger.php&#10;l5-&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/l5-swagger.php&#10;app.p&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/app.php&#10;app.php&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/bootstrap/app.php&#10;composer&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/composer.json&#10;web.&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/routes/web.php&#10;.g&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/.gitignore&#10;dock&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/docker/php-fpm/Dockerfile&#10;compos&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/composer.json&#10;gi&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/.gitignore&#10;ContractSe&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Providers/ContractServiceProvider.php&#10;Dock&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/docker/php-fpm/Dockerfile&#10;APIC&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Http/Controllers/API/ApiController.php&#10;database.p&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/database.php&#10;en&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/.env&#10;Rout&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/app/Providers/RouteServiceProvider.php&#10;ap&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/routes/api.php&#10;app&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/app.php&#10;app.&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/config/app.php&#10;composer.&#9;FILE&#9;file:///home/omar/Documents/Laravel Projects/temper-test/composer.json" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/Transformers" />
+      <recent name="$PROJECT_DIR$/tests/Unit/Repositories" />
+      <recent name="$PROJECT_DIR$/storage/data" />
+      <recent name="$PROJECT_DIR$/tests/Unit/Adapters" />
+      <recent name="$PROJECT_DIR$/tests/Unit/Managers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage/data" />
+      <recent name="$PROJECT_DIR$/resources/js" />
+      <recent name="$PROJECT_DIR$/app/Repositories/Implementations" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/API" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df8d23dc-be1a-4c01-bd67-cdd8f6834eb1" name="Default" comment="" />
+      <created>1562869153231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562869153231</updated>
+      <workItem from="1562869154547" duration="722000" />
+      <workItem from="1562877088359" duration="6945000" />
+      <workItem from="1562932974345" duration="78289000" />
+      <workItem from="1563099392490" duration="202000" />
+      <workItem from="1563114048306" duration="78000" />
+      <workItem from="1563118150043" duration="8000" />
+      <workItem from="1563125347170" duration="7262000" />
+      <workItem from="1563134829165" duration="3014000" />
+      <workItem from="1563222489134" duration="4972000" />
+      <workItem from="1563313992626" duration="7490000" />
+      <workItem from="1563393803441" duration="2672000" />
+      <workItem from="1563396512050" duration="4229000" />
+      <workItem from="1563400847629" duration="4106000" />
+      <workItem from="1563537591926" duration="33493000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Temper test][Init]&#10;- Initialize project and create docker containers for the projects">
+      <created>1562942712538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562942712538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Temper test][Extract data]&#10;- Extract data from CSV&#10;- Migrate data to database and extract from it">
+      <created>1563036237857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563036237857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Temper test][Produce data]&#10;- Produce Weekly lines data &#10;- Produce percentage of users and percentage of boarding flow">
+      <created>1563048033441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563048033441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Temper test][Front end]&#10;- install vue js">
+      <created>1563126568275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563126568275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Temper test][Front end]&#10;- install vue js&#10;- Calling API to get data &#10;- Draw High charts &#10;- Passing data to high charts">
+      <created>1563394292171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563394292171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Temper test]&#10;- Document classes and methods&#10;- Generate swagger for endpoint">
+      <created>1563400419780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563400419780</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Temper test]&#10;- Change permissions of files">
+      <created>1563400715087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563400715087</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[Temper test][Unit testing]&#10;- Write unit and feature testing for component">
+      <created>1563654107836</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563654107836</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Temper test]&#10;- Update readme file to show installation steps and sample from api documentation and the curve">
+      <created>1563659376417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563659376417</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157022000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Temper test][Init]&#10;- Initialize project and create docker containers for the projects" />
+    <MESSAGE value="[Temper test][Extract data]&#10;- Extract data from CSV&#10;- Migrate data to database and extract from it" />
+    <MESSAGE value="[Temper test][Produce data]&#10;- Produce Weekly lines data &#10;- Produce percentage of users and percentage of boarding flow" />
+    <MESSAGE value="[Temper test][Front end]&#10;- install vue js" />
+    <MESSAGE value="[Temper test][Front end]&#10;- install vue js&#10;- Calling API to get data &#10;- Draw High charts &#10;- Passing data to high charts" />
+    <MESSAGE value="[Temper test]&#10;- Document classes and methods&#10;- Generate swagger for endpoint" />
+    <MESSAGE value="[Temper test]&#10;- Change permissions of files" />
+    <MESSAGE value="[Temper test][Unit testing]&#10;- Write unit and feature testing for component" />
+    <MESSAGE value="[Temper test]&#10;- Update swagger for endpoint" />
+    <MESSAGE value="[Temper test]&#10;- Update readme file to show installation steps and sample from api documentation and the curve" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Temper test]&#10;- Update readme file to show installation steps and sample from api documentation and the curve" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

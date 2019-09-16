@@ -1,0 +1,81 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "This is for retention chart",
+        "termsOfService": "",
+        "contact": {
+            "email": "omarmostafa1411@gmail.com"
+        },
+        "version": "1.0.0"
+    },
+    "host": "localhost:7070",
+    "basePath": "/api",
+    "schemes": [
+        "http",
+        "https"
+    ],
+    "paths": {
+        "/v1/charts": {
+            "get": {
+                "tags": [
+                    "Retention Chart"
+                ],
+                "summary": "Get upcase retention chart data",
+                "description": "\n     *          Get onboarding flow percentages and percentage of users per week\n     *     ",
+                "operationId": "getOnBoardingFlowChartData",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Chart data retrieved successfully",
+                        "schema": {
+                            "properties": {
+                                "Data": {
+                                    "properties": {
+                                        "users_percentage": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "name": {
+                                                        "type": "string",
+                                                        "example": "25-10-2019"
+                                                    },
+                                                    "data": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "integer",
+                                                            "example": 90
+                                                        }
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        },
+                                        "boarding_flow_percentage": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "integer",
+                                                "example": 0
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "api_key": []
+                    }
+                ]
+            }
+        }
+    },
+    "definitions": {}
+}
